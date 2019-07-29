@@ -1,7 +1,2 @@
 hello world!
-Ling123
-<<<<<<< HEAD
-edit
-=======
-xyz
->>>>>>> origin/abc
+Ling12356789
