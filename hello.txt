@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello worldwrfwefrwefewfe!
 Ling123
+=======
+oh my gold
+hello
+>>>>>>> 8fd60a128c914ee01209041742e5256252e00c61
